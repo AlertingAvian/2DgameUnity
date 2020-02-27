@@ -71,7 +71,7 @@ public class BrandNew : MonoBehaviour
     public float dashSpeed;
     public float distanceBetweenImages;
     public float dashCoolDown;
-
+    public float crouchSpeed = 0.0f;
     public Vector2 wallHopDirection;
     public Vector2 wallJumpDirection;
 
@@ -103,6 +103,7 @@ public class BrandNew : MonoBehaviour
         //CheckLedgeClimb();
         CheckDash();
         CheckKnockback();
+        CheckCrouch();
     }
 
     private void FixedUpdate()
@@ -229,6 +230,16 @@ public class BrandNew : MonoBehaviour
         {
             Crouch = true;
             anim.SetBool("Down", true);
+            if(Crouch)
+            {
+                movementSpeed = 1.0f;
+            }
+                  
+        }
+        else if(Input.GetButtonUp("Down"))
+        {
+            Crouch = false;
+            anim.SetBool("Down", false);
         }
               
     }
