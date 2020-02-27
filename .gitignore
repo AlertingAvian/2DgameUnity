@@ -10,3 +10,5 @@
 **.unityproj
 **.booproj
 **/Debug
+**/cache
+**/Library
