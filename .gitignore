@@ -11,4 +11,4 @@
 **.booproj
 **/Debug
 **/cache
-**/Library
+/Library
