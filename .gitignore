@@ -1,0 +1,12 @@
+**.collabignore
+**/Temp
+*/.vs
+**.userprefs
+**.csproj
+**.pidb
+**.suo
+**.sln
+**.user
+**.unityproj
+**.booproj
+**/Debug
