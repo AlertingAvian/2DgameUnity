@@ -13,9 +13,1929 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-27T13:04:36.388-06:00
-  initializedAtString: 2020-02-27T13:04:36.388-06:00
+  lastUpdatedAtString: 2020-02-27T13:25:34.537-06:00
+  initializedAtString: 2020-02-27T13:24:12.251-06:00
   log:
+  - commitID: 83dac095ed7b203e3589d271fbc19e94edc41af5
+    mergeA: 
+    mergeB: 
+    authorName: Patrick
+    authorEmail: boyscoutpatrick813@gmail.com
+    commitEmail: boyscoutpatrick813@gmail.com
+    commitName: Patrick
+    summary: Updated death scenes
+    description: "Removed 'Death+UI'\r\nCleared objects from 'Death'"
+    timeString: 2020-02-27T13:25:20.000-06:00
+    commitTimeString: 2020-02-27T13:25:20.000-06:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Death+UI.unity
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Scenes\Death+UI.unity
+      projectPath: Assets\Scenes\Death+UI.unity
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Death+UI.unity.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Scenes\Death+UI.unity.meta
+      projectPath: Assets\Scenes\Death+UI.unity.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Death.unity
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Scenes\Death.unity
+      projectPath: Assets\Scenes\Death.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0548fb630b18b786779d7a683701f60bc9340aae
+    mergeA: 
+    mergeB: 
+    authorName: Patrick
+    authorEmail: boyscoutpatrick813@gmail.com
+    commitEmail: boyscoutpatrick813@gmail.com
+    commitName: Patrick
+    summary: Created .gitignore
+    description: 
+    timeString: 2020-02-27T13:09:55.000-06:00
+    commitTimeString: 2020-02-27T13:09:55.000-06:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_d4ba78be-6121-47e1-a3f3-e39472aab616.txt
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\Collab\CollabSnapshot_d4ba78be-6121-47e1-a3f3-e39472aab616.txt
+      projectPath: Library\Collab\CollabSnapshot_d4ba78be-6121-47e1-a3f3-e39472aab616.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Cinemachine.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Cinemachine.dll
+      projectPath: Library\ScriptAssemblies\Cinemachine.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Cinemachine.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Cinemachine.pdb
+      projectPath: Library\ScriptAssemblies\Cinemachine.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\dc69e9-mainStage.json
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\StateCache\Hierarchy\dc69e9-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\dc69e9-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\00\00cf88944ec069041bea1cf7c5318fd6.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\00\00cf88944ec069041bea1cf7c5318fd6.info
+      projectPath: Library\metadata\00\00cf88944ec069041bea1cf7c5318fd6.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\0b\0bfe928e677905e48a8b3543ebbe5742.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\0b\0bfe928e677905e48a8b3543ebbe5742.info
+      projectPath: Library\metadata\0b\0bfe928e677905e48a8b3543ebbe5742.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\0e\0e25202d144d55448997b899dd0e5b20.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\0e\0e25202d144d55448997b899dd0e5b20.info
+      projectPath: Library\metadata\0e\0e25202d144d55448997b899dd0e5b20.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\11\119d6735ee2671c4699ad36d74734f31.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\11\119d6735ee2671c4699ad36d74734f31.info
+      projectPath: Library\metadata\11\119d6735ee2671c4699ad36d74734f31.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\12\12229db0c0cd43b4f92a5dddc8356266.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\12\12229db0c0cd43b4f92a5dddc8356266.info
+      projectPath: Library\metadata\12\12229db0c0cd43b4f92a5dddc8356266.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\12\12f161cedc3ea1747883fc06abde6798.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\12\12f161cedc3ea1747883fc06abde6798.info
+      projectPath: Library\metadata\12\12f161cedc3ea1747883fc06abde6798.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\27\279871b345713b74a99b134f5442b5eb.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\27\279871b345713b74a99b134f5442b5eb.info
+      projectPath: Library\metadata\27\279871b345713b74a99b134f5442b5eb.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\2a\2a26ac17fc943a140b1f5bdd58e2d3d4
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\2a\2a26ac17fc943a140b1f5bdd58e2d3d4
+      projectPath: Library\metadata\2a\2a26ac17fc943a140b1f5bdd58e2d3d4
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\2a\2ac175482e58ec8409b539591c23bf2d.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\2a\2ac175482e58ec8409b539591c23bf2d.info
+      projectPath: Library\metadata\2a\2ac175482e58ec8409b539591c23bf2d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\2b\2b52b1a9945e93846a0f2350a91948c1.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\2b\2b52b1a9945e93846a0f2350a91948c1.info
+      projectPath: Library\metadata\2b\2b52b1a9945e93846a0f2350a91948c1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\32\32bcf0bea0d3e3f4bb472d34745b119f.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\32\32bcf0bea0d3e3f4bb472d34745b119f.info
+      projectPath: Library\metadata\32\32bcf0bea0d3e3f4bb472d34745b119f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+      projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+      projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\36\36c0a90b292dc3048b3e2e8c031e1c32.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\36\36c0a90b292dc3048b3e2e8c031e1c32.info
+      projectPath: Library\metadata\36\36c0a90b292dc3048b3e2e8c031e1c32.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\38\3879794afca8aeb468601d41285416e5.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\38\3879794afca8aeb468601d41285416e5.info
+      projectPath: Library\metadata\38\3879794afca8aeb468601d41285416e5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\39\394b9da0cfa972d4598a3ca3632216ff
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\39\394b9da0cfa972d4598a3ca3632216ff
+      projectPath: Library\metadata\39\394b9da0cfa972d4598a3ca3632216ff
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\3b\3b94cab86ea606047b4af60601a768e5.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\3b\3b94cab86ea606047b4af60601a768e5.info
+      projectPath: Library\metadata\3b\3b94cab86ea606047b4af60601a768e5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\3e\3e65dd96813dca14ebbd90a1d9fd7163.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\3e\3e65dd96813dca14ebbd90a1d9fd7163.info
+      projectPath: Library\metadata\3e\3e65dd96813dca14ebbd90a1d9fd7163.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\3f\3f0ee91c0660c674a9b8db89cf08266b.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\3f\3f0ee91c0660c674a9b8db89cf08266b.info
+      projectPath: Library\metadata\3f\3f0ee91c0660c674a9b8db89cf08266b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\40\40e2fdb1957bff442851a633ace9e289.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\40\40e2fdb1957bff442851a633ace9e289.info
+      projectPath: Library\metadata\40\40e2fdb1957bff442851a633ace9e289.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\47\47900fa97d655df49b5003d251a48fe1.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\47\47900fa97d655df49b5003d251a48fe1.info
+      projectPath: Library\metadata\47\47900fa97d655df49b5003d251a48fe1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+      projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+      projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+      projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+      projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\4c\4c5a1a6ee2aa0eb4fb53be67c4c0858f.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\4c\4c5a1a6ee2aa0eb4fb53be67c4c0858f.info
+      projectPath: Library\metadata\4c\4c5a1a6ee2aa0eb4fb53be67c4c0858f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\4c\4ccaa1cf248f3d048a6065ba321cb96f.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\4c\4ccaa1cf248f3d048a6065ba321cb96f.info
+      projectPath: Library\metadata\4c\4ccaa1cf248f3d048a6065ba321cb96f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\4e\4e5de91a68ac368478b95e38d2b1220d.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\4e\4e5de91a68ac368478b95e38d2b1220d.info
+      projectPath: Library\metadata\4e\4e5de91a68ac368478b95e38d2b1220d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\59\591768215def4c54984dcc15332851f5.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\59\591768215def4c54984dcc15332851f5.info
+      projectPath: Library\metadata\59\591768215def4c54984dcc15332851f5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+      projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+      projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\60\6072569255de9884aaaafbd4cb6b0a53.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\60\6072569255de9884aaaafbd4cb6b0a53.info
+      projectPath: Library\metadata\60\6072569255de9884aaaafbd4cb6b0a53.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\63\6337a6d4dd53d6b48be6ab59b4c20870
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\63\6337a6d4dd53d6b48be6ab59b4c20870
+      projectPath: Library\metadata\63\6337a6d4dd53d6b48be6ab59b4c20870
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\64\649b8482ddbd73c49b25a30c178fb639.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\64\649b8482ddbd73c49b25a30c178fb639.info
+      projectPath: Library\metadata\64\649b8482ddbd73c49b25a30c178fb639.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\68\68255b59e11e1604da45a61853afc27a
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\68\68255b59e11e1604da45a61853afc27a
+      projectPath: Library\metadata\68\68255b59e11e1604da45a61853afc27a
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\68\68f43a2eaf369e24ca82b8a8f4b31a93.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\68\68f43a2eaf369e24ca82b8a8f4b31a93.info
+      projectPath: Library\metadata\68\68f43a2eaf369e24ca82b8a8f4b31a93.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+      projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+      projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\6f\6fb7157aaac611e40a67c92ac539784c.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\6f\6fb7157aaac611e40a67c92ac539784c.info
+      projectPath: Library\metadata\6f\6fb7157aaac611e40a67c92ac539784c.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\71\71bc99f38de041743aec436b3af29a1f.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\71\71bc99f38de041743aec436b3af29a1f.info
+      projectPath: Library\metadata\71\71bc99f38de041743aec436b3af29a1f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\7b\7b0dc80de47665b43b99e229cb83711a.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\7b\7b0dc80de47665b43b99e229cb83711a.info
+      projectPath: Library\metadata\7b\7b0dc80de47665b43b99e229cb83711a.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\7c\7c142a5bf7ec9a34cb7d9ffa0ce24823.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\7c\7c142a5bf7ec9a34cb7d9ffa0ce24823.info
+      projectPath: Library\metadata\7c\7c142a5bf7ec9a34cb7d9ffa0ce24823.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\7c\7cc84dc4bdf507b46b5f51d5b8ca8ff4.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\7c\7cc84dc4bdf507b46b5f51d5b8ca8ff4.info
+      projectPath: Library\metadata\7c\7cc84dc4bdf507b46b5f51d5b8ca8ff4.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\82\8261bfa53f5d3884db6128da397fe7ca.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\82\8261bfa53f5d3884db6128da397fe7ca.info
+      projectPath: Library\metadata\82\8261bfa53f5d3884db6128da397fe7ca.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\83\83b58794172c321488553fe3090a8d07.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\83\83b58794172c321488553fe3090a8d07.info
+      projectPath: Library\metadata\83\83b58794172c321488553fe3090a8d07.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\87\877ef3585573ce44eab899298be23158
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\88\88b8d6d010be9e24caaeea13c97f5815.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\88\88b8d6d010be9e24caaeea13c97f5815.info
+      projectPath: Library\metadata\88\88b8d6d010be9e24caaeea13c97f5815.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\89\89c6e21fcc82e7f4bbf42aecf581b884.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\89\89c6e21fcc82e7f4bbf42aecf581b884.info
+      projectPath: Library\metadata\89\89c6e21fcc82e7f4bbf42aecf581b884.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\8b\8b32e2324a57f424fa53dad1eb18842c.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\8b\8b32e2324a57f424fa53dad1eb18842c.info
+      projectPath: Library\metadata\8b\8b32e2324a57f424fa53dad1eb18842c.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\8b\8bc5359e8cac0b64b9da09ed894c78c4.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\8b\8bc5359e8cac0b64b9da09ed894c78c4.info
+      projectPath: Library\metadata\8b\8bc5359e8cac0b64b9da09ed894c78c4.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\8e\8e0afc403a1213245b29167c44d28e58.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\8e\8e0afc403a1213245b29167c44d28e58.info
+      projectPath: Library\metadata\8e\8e0afc403a1213245b29167c44d28e58.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a2\a27d7e3d47fbb4b4294e08bdfe9d736a.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a2\a27d7e3d47fbb4b4294e08bdfe9d736a.info
+      projectPath: Library\metadata\a2\a27d7e3d47fbb4b4294e08bdfe9d736a.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a3\a3dc1402f5f44ae4aa5dccea817efdf9.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a3\a3dc1402f5f44ae4aa5dccea817efdf9.info
+      projectPath: Library\metadata\a3\a3dc1402f5f44ae4aa5dccea817efdf9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a4\a4670d032b31eec43ae7b1c0417b2291.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a4\a4670d032b31eec43ae7b1c0417b2291.info
+      projectPath: Library\metadata\a4\a4670d032b31eec43ae7b1c0417b2291.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\b1\b1a4667b675280f40808f78efa17f5c3.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\b1\b1a4667b675280f40808f78efa17f5c3.info
+      projectPath: Library\metadata\b1\b1a4667b675280f40808f78efa17f5c3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\b2\b2fac522d1c18954a911911249d9b297.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\b2\b2fac522d1c18954a911911249d9b297.info
+      projectPath: Library\metadata\b2\b2fac522d1c18954a911911249d9b297.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\b3\b3d1ca9e72f4a974e8e75bbdd4d70f26
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\b3\b3d1ca9e72f4a974e8e75bbdd4d70f26
+      projectPath: Library\metadata\b3\b3d1ca9e72f4a974e8e75bbdd4d70f26
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\b4\b4b0d81ae4c26c94ba9fe585645ff480.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\b4\b4b0d81ae4c26c94ba9fe585645ff480.info
+      projectPath: Library\metadata\b4\b4b0d81ae4c26c94ba9fe585645ff480.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\bc\bc9e04171937d12429601fd171132e0d.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\bc\bc9e04171937d12429601fd171132e0d.info
+      projectPath: Library\metadata\bc\bc9e04171937d12429601fd171132e0d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+      projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+      projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\ca\ca306d7ac2c5a4144b03eedba90f7aa3.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\ca\ca306d7ac2c5a4144b03eedba90f7aa3.info
+      projectPath: Library\metadata\ca\ca306d7ac2c5a4144b03eedba90f7aa3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\cc\cc8f530432298384c835f32aef2e933e.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\cc\cc8f530432298384c835f32aef2e933e.info
+      projectPath: Library\metadata\cc\cc8f530432298384c835f32aef2e933e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\cf\cf3f7a0f41a739d4e8d91b58b8a9898f.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\cf\cf3f7a0f41a739d4e8d91b58b8a9898f.info
+      projectPath: Library\metadata\cf\cf3f7a0f41a739d4e8d91b58b8a9898f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\cf\cf400648429e39c499454f47a34aa6e4.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\cf\cf400648429e39c499454f47a34aa6e4.info
+      projectPath: Library\metadata\cf\cf400648429e39c499454f47a34aa6e4.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\d0\d078ef8fd7d553645823a86f7e2fe371.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d0\d078ef8fd7d553645823a86f7e2fe371.info
+      projectPath: Library\metadata\d0\d078ef8fd7d553645823a86f7e2fe371.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\d0\d08f91df3bd212f429df17f53ce2f364
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d0\d08f91df3bd212f429df17f53ce2f364
+      projectPath: Library\metadata\d0\d08f91df3bd212f429df17f53ce2f364
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\d2\d2af6e89db3598b47b3ef761cee3a156.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d2\d2af6e89db3598b47b3ef761cee3a156.info
+      projectPath: Library\metadata\d2\d2af6e89db3598b47b3ef761cee3a156.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\de\de41d366c687a46beb6a9acaa88c12db.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\de\de41d366c687a46beb6a9acaa88c12db.info
+      projectPath: Library\metadata\de\de41d366c687a46beb6a9acaa88c12db.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\e4\e4eaaafd6da0c7f488a0924d59ba615b.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\e4\e4eaaafd6da0c7f488a0924d59ba615b.info
+      projectPath: Library\metadata\e4\e4eaaafd6da0c7f488a0924d59ba615b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\e5\e5273cd41ac3c5246965ef9469d10dd7
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\e5\e5273cd41ac3c5246965ef9469d10dd7
+      projectPath: Library\metadata\e5\e5273cd41ac3c5246965ef9469d10dd7
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\e7\e7f6e8292c5358e46bc53973a0425739.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\e7\e7f6e8292c5358e46bc53973a0425739.info
+      projectPath: Library\metadata\e7\e7f6e8292c5358e46bc53973a0425739.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\ef\ef51d5180b4dbbe4cbb20a2cc3b89550.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\ef\ef51d5180b4dbbe4cbb20a2cc3b89550.info
+      projectPath: Library\metadata\ef\ef51d5180b4dbbe4cbb20a2cc3b89550.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f1\f15fe3b6b6f15e041a619ec7d818a5ab.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f1\f15fe3b6b6f15e041a619ec7d818a5ab.info
+      projectPath: Library\metadata\f1\f15fe3b6b6f15e041a619ec7d818a5ab.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f4\f409560c40c9d1b4cb0534f234419e04.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f4\f409560c40c9d1b4cb0534f234419e04.info
+      projectPath: Library\metadata\f4\f409560c40c9d1b4cb0534f234419e04.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f6\f6a25948c5f464641a7fa6c3ce822eef
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f6\f6a25948c5f464641a7fa6c3ce822eef
+      projectPath: Library\metadata\f6\f6a25948c5f464641a7fa6c3ce822eef
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\fa\fa965cb79ba2b6d4494a9ac7fb83f4ef.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\fa\fa965cb79ba2b6d4494a9ac7fb83f4ef.info
+      projectPath: Library\metadata\fa\fa965cb79ba2b6d4494a9ac7fb83f4ef.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\fb\fb4eb72c21b9dfc409beb6be3a3f31fa.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\fb\fb4eb72c21b9dfc409beb6be3a3f31fa.info
+      projectPath: Library\metadata\fb\fb4eb72c21b9dfc409beb6be3a3f31fa.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\fd\fd35679e7161fb745921c805ae9f7119.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\fd\fd35679e7161fb745921c805ae9f7119.info
+      projectPath: Library\metadata\fd\fd35679e7161fb745921c805ae9f7119.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0caa986683ac9484db9d356c1a2a322c
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-0caa986683ac9484db9d356c1a2a322c
+      projectPath: Temp\UnityTempFile-0caa986683ac9484db9d356c1a2a322c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1572dc5563074f8409d4f2138cf907ee
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-1572dc5563074f8409d4f2138cf907ee
+      projectPath: Temp\UnityTempFile-1572dc5563074f8409d4f2138cf907ee
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-15790d3626cb60d429eee987d5cf7257
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-15790d3626cb60d429eee987d5cf7257
+      projectPath: Temp\UnityTempFile-15790d3626cb60d429eee987d5cf7257
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-18d846aaa0bc8d0439b47e8060a0729d
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-18d846aaa0bc8d0439b47e8060a0729d
+      projectPath: Temp\UnityTempFile-18d846aaa0bc8d0439b47e8060a0729d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-194314f7aa3dea14981547ff6f0323db
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-194314f7aa3dea14981547ff6f0323db
+      projectPath: Temp\UnityTempFile-194314f7aa3dea14981547ff6f0323db
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1c70b2d90aeebc348ae22754e2f4ed88
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-1c70b2d90aeebc348ae22754e2f4ed88
+      projectPath: Temp\UnityTempFile-1c70b2d90aeebc348ae22754e2f4ed88
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1ec82ea697ef1964499751edc80205cc
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-1ec82ea697ef1964499751edc80205cc
+      projectPath: Temp\UnityTempFile-1ec82ea697ef1964499751edc80205cc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2565eb21e6be0e34a8890c3988a69301
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-2565eb21e6be0e34a8890c3988a69301
+      projectPath: Temp\UnityTempFile-2565eb21e6be0e34a8890c3988a69301
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-25c05040b595abb41a3dd227d949311c
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-25c05040b595abb41a3dd227d949311c
+      projectPath: Temp\UnityTempFile-25c05040b595abb41a3dd227d949311c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-29fc9c0d02a00e844a74922068cc4c6a
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-29fc9c0d02a00e844a74922068cc4c6a
+      projectPath: Temp\UnityTempFile-29fc9c0d02a00e844a74922068cc4c6a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-3220b3cb520a8a3499180bd2b3e75803
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-3220b3cb520a8a3499180bd2b3e75803
+      projectPath: Temp\UnityTempFile-3220b3cb520a8a3499180bd2b3e75803
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4498c5b09d6bf624c8f7b5dd43d43b39
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-4498c5b09d6bf624c8f7b5dd43d43b39
+      projectPath: Temp\UnityTempFile-4498c5b09d6bf624c8f7b5dd43d43b39
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4a57ba8ac9457ef4090ca360d0c79bf5
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-4a57ba8ac9457ef4090ca360d0c79bf5
+      projectPath: Temp\UnityTempFile-4a57ba8ac9457ef4090ca360d0c79bf5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5e584b960b0372e4f87b5e9d364f56ed
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-5e584b960b0372e4f87b5e9d364f56ed
+      projectPath: Temp\UnityTempFile-5e584b960b0372e4f87b5e9d364f56ed
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-646ab76a7ea0a8d459928e1cde5ea50c
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-646ab76a7ea0a8d459928e1cde5ea50c
+      projectPath: Temp\UnityTempFile-646ab76a7ea0a8d459928e1cde5ea50c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-689b958877b609542af14f9a69c30817
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-689b958877b609542af14f9a69c30817
+      projectPath: Temp\UnityTempFile-689b958877b609542af14f9a69c30817
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7ad86244038c5a640918504b15987658
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-7ad86244038c5a640918504b15987658
+      projectPath: Temp\UnityTempFile-7ad86244038c5a640918504b15987658
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7dffe7e245c37dc40a644afa5df0b949
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-7dffe7e245c37dc40a644afa5df0b949
+      projectPath: Temp\UnityTempFile-7dffe7e245c37dc40a644afa5df0b949
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7f0f9f03bd9c9a84783cae921e9ae421
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-7f0f9f03bd9c9a84783cae921e9ae421
+      projectPath: Temp\UnityTempFile-7f0f9f03bd9c9a84783cae921e9ae421
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-86b054011139d8b46ab40403df7fdaf3
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-86b054011139d8b46ab40403df7fdaf3
+      projectPath: Temp\UnityTempFile-86b054011139d8b46ab40403df7fdaf3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-874892e41acefe040a4845f0980544ba
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-874892e41acefe040a4845f0980544ba
+      projectPath: Temp\UnityTempFile-874892e41acefe040a4845f0980544ba
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8aa582451adbca44d855f0aeee6327b2
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-8aa582451adbca44d855f0aeee6327b2
+      projectPath: Temp\UnityTempFile-8aa582451adbca44d855f0aeee6327b2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a29e71b362f91e14db1f01d25edbc934
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-a29e71b362f91e14db1f01d25edbc934
+      projectPath: Temp\UnityTempFile-a29e71b362f91e14db1f01d25edbc934
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a7c3d2cb4cfcc9b449c9ac0f5e5a73b9
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-a7c3d2cb4cfcc9b449c9ac0f5e5a73b9
+      projectPath: Temp\UnityTempFile-a7c3d2cb4cfcc9b449c9ac0f5e5a73b9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a9ad4fad865fa9d40a9325416bfd6cfb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-a9ad4fad865fa9d40a9325416bfd6cfb
+      projectPath: Temp\UnityTempFile-a9ad4fad865fa9d40a9325416bfd6cfb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b3958a678e280e14ab6b5124f75d1cc3
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-b3958a678e280e14ab6b5124f75d1cc3
+      projectPath: Temp\UnityTempFile-b3958a678e280e14ab6b5124f75d1cc3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c7a614860694ff34ea0aeb2a4a925e60
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-c7a614860694ff34ea0aeb2a4a925e60
+      projectPath: Temp\UnityTempFile-c7a614860694ff34ea0aeb2a4a925e60
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e4ef79e1154a75440b3385e86942a5cc
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-e4ef79e1154a75440b3385e86942a5cc
+      projectPath: Temp\UnityTempFile-e4ef79e1154a75440b3385e86942a5cc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-eb310616f431c2644ab4cb854fa94ffb
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-eb310616f431c2644ab4cb854fa94ffb
+      projectPath: Temp\UnityTempFile-eb310616f431c2644ab4cb854fa94ffb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fd35e4cf234ceaf4fb48635c5a96397a
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\UnityTempFile-fd35e4cf234ceaf4fb48635c5a96397a
+      projectPath: Temp\UnityTempFile-fd35e4cf234ceaf4fb48635c5a96397a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\maloneypatrick08\Documents\GitHub\2DgameUnity\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
   - commitID: f2330c9cf7aed7b7f98c84abc4e76d4dbb20411b
     mergeA: 
     mergeB: 
