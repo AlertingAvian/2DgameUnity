@@ -1,6 +1,9 @@
 *.collabignore
 /Temp
 /.vs
+/obj
+/Packages
+sysinfo.txt
 *.userprefs
 *.csproj
 *.pidb
@@ -9,6 +12,11 @@
 *.user
 *.unityproj
 *.booproj
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 */Debug
 */cache
 /Library
