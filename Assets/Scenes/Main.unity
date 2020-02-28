@@ -16275,8 +16275,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3d1ca9e72f4a974e8e75bbdd4d70f26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  knockbackDuration: 6
-  knockbackSpeed: {x: 1, y: 1}
   amountOfJumps: 1
   movementSpeed: 4
   jumpForce: 16
@@ -16291,19 +16289,18 @@ MonoBehaviour:
   jumpTimerSet: 0.15
   turnTimerSet: 0.1
   wallJumpTimerSet: 0.5
-  dashTime: 2
-  dashSpeed: 6
   distanceBetweenImages: 2
-  dashCoolDown: 2
   crouchSpeed: 2
   wallHopDirection: {x: 1, y: 6}
   wallJumpDirection: {x: 4, y: 9}
   groundCheck: {fileID: 1332869002}
   wallCheck: {fileID: 543660948}
-  ledgeCheck: {fileID: 543660948}
   whatIsGround:
     serializedVersion: 2
     m_Bits: 1079
+  whatIsWall:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!58 &1847718413
 CircleCollider2D:
   m_ObjectHideFlags: 0
