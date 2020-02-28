@@ -9983,7 +9983,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c98c931019470274cab933f2be5bd85f, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -10865,7 +10865,7 @@ SpriteRenderer:
   m_Size: {x: 21.333334, y: 13.333333}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!213 &384797729
@@ -14002,7 +14002,7 @@ SpriteRenderer:
   m_Size: {x: 0.33, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &820667352
@@ -14096,6 +14096,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5273cd41ac3c5246965ef9469d10dd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  controller: {fileID: 0}
+  animator: {fileID: 0}
+  runSpeed: 40
 --- !u!95 &820667358
 Animator:
   serializedVersion: 3
@@ -15432,6 +15435,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6337a6d4dd53d6b48be6ab59b4c20870, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player1: {fileID: 0}
+  player2: {fileID: 0}
+  minSizeY: 5
 --- !u!213 &1003198102
 Sprite:
   m_ObjectHideFlags: 0
@@ -17830,7 +17836,7 @@ SpriteRenderer:
   m_Size: {x: 0.16, y: 0.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!213 &1297503180
@@ -27125,7 +27131,7 @@ SpriteRenderer:
   m_Size: {x: 0.9375, y: 0.5625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &1574868533
@@ -29285,6 +29291,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8c1c2d9e7b92ea4b9bb5ff19712d944, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementInputDirection: 0
+  jumpTimer: 0
+  turnTimer: 0
+  wallJumpTimer: 0
+  lastImageXpos: 0
+  amountOfJumpsLeft: 0
+  facingDirection: 1
+  lastWallJumpDirection: 0
+  isFacingRight: 1
+  isWalking: 0
+  isGrounded: 0
+  isTouchingWall: 0
+  isWallSliding: 0
+  canNormalJump: 0
+  canWallJump: 0
+  isAttemptingToJump: 0
+  checkJumpMultiplier: 0
+  canMove: 0
+  canFlip: 0
+  hasWallJumped: 0
+  isDashing: 0
+  Crouch: 0
+  rb: {fileID: 0}
+  anim: {fileID: 0}
   amountOfJumps: 1
   movementSpeed: 10
   jumpForce: 16
@@ -29306,10 +29336,8 @@ MonoBehaviour:
   groundCheck: {fileID: 1332869002}
   wallCheck: {fileID: 543660948}
   whatIsGround:
-    serializedVersion: 2
     m_Bits: 1079
   whatIsWall:
-    serializedVersion: 2
     m_Bits: 2048
 --- !u!58 &1847718413
 CircleCollider2D:
@@ -29439,7 +29467,7 @@ SpriteRenderer:
   m_Size: {x: 2.0625, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1847718418
