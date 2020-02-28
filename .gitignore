@@ -14,7 +14,6 @@ sysinfo.txt
 *.booproj
 .DS_Store
 ._*
-**.meta
 .Spotlight-V100
 .Trashes
 ehthumbs.db
